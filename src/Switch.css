@@ -1,0 +1,45 @@
+.button-on {
+  background-color: green;
+  color: white;
+  font-weight: 600;
+  height: 45px;
+  width: 45px;
+  border-radius: 10%;
+  position: absolute;
+  margin: auto;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  height: 100px;
+  width: 100px;
+}
+
+.button-off {
+  background-color: red;
+  color: white;
+  font-weight: 600;
+  height: 45px;
+  width: 45px;
+  border-radius: 50%;
+  position: absolute;
+  margin: auto;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  height: 100px;
+  width: 100px;
+}
+
+.button-wrapper {
+  background-color: black;
+  position: absolute;
+  margin: auto;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  height: 100px;
+  width: 100px;
+}
